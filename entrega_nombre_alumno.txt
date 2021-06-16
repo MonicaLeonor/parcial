@@ -1,0 +1,8 @@
+nombre completo: <here>
+
+carnet: <here>
+
+usuario de github: <here>
+
+url del repositorio de su 
+parcial en github: <here>
